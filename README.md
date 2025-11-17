@@ -6,6 +6,20 @@ A comprehensive kick start to C# programming and game development!
 
 This repository contains complete guides for learning C# and game development:
 
+### 🎯 [Terminal Learning Guide](./TERMINAL_LEARNING_GUIDE.md) ⭐ NEW!
+Learn C# through interactive terminal applications and games:
+- **Hands-on learning** with immediate feedback
+- **Complete tutorial** from basics to advanced
+- **Working games** you can play and modify
+- **Step-by-step examples** for building your own games
+
+### 🎮 [Terminal Games Collection](./terminal-games/) ⭐ NEW!
+Play and learn from fully functional terminal games:
+- **Number Guessing Game** - Perfect for beginners
+- **Tic-Tac-Toe** - Learn arrays and game logic
+- **Text Adventure** - Explore story-driven programming
+- **Hangman** - Master string manipulation
+
 ### 🎮 [Complete C# Game Development Guide](./GAME_DEVELOPMENT_GUIDE.md)
 A comprehensive guide covering:
 - **C# Programming Fundamentals** (variables, functions, loops, classes, etc.)
@@ -24,11 +38,15 @@ A comprehensive guide covering:
 
 ## 🚀 Quick Start
 
-1. **Learning C# Basics?** Start with the [Game Development Guide](./GAME_DEVELOPMENT_GUIDE.md) - it covers all essential C# concepts!
+1. **New to C#?** Start with the [Terminal Learning Guide](./TERMINAL_LEARNING_GUIDE.md) - learn by building fun games!
 
-2. **Want to use a visual editor?** Check out the [Unity 2D](./guides/UNITY_2D_GUIDE.md) or [Unity 3D](./guides/UNITY_3D_GUIDE.md) guides.
+2. **Want to play and learn?** Try the [Terminal Games](./terminal-games/) - fully working games you can modify!
 
-3. **Prefer pure code?** Try [MonoGame](./guides/MONOGAME_GUIDE.md) or [Raylib](./guides/RAYLIB_GUIDE.md).
+3. **Learning C# Basics?** Check out the [Game Development Guide](./GAME_DEVELOPMENT_GUIDE.md) - it covers all essential C# concepts!
+
+4. **Want to use a visual editor?** Check out the [Unity 2D](./guides/UNITY_2D_GUIDE.md) or [Unity 3D](./guides/UNITY_3D_GUIDE.md) guides.
+
+5. **Prefer pure code?** Try [MonoGame](./guides/MONOGAME_GUIDE.md) or [Raylib](./guides/RAYLIB_GUIDE.md).
 
 ## 💡 What You'll Learn
 
@@ -89,6 +107,16 @@ This guide is provided as-is for educational purposes. Feel free to use and shar
 
 ## 🌟 Getting Started Now
 
-**[👉 Start with the Complete Game Development Guide](./GAME_DEVELOPMENT_GUIDE.md)**
+### For Complete Beginners
+**[👉 Start with the Terminal Learning Guide](./TERMINAL_LEARNING_GUIDE.md)**  
+Learn C# by building fun terminal games with step-by-step tutorials!
+
+### For Hands-On Learners
+**[👉 Play the Terminal Games](./terminal-games/)**  
+Run working games, study the code, and make them your own!
+
+### For Game Development
+**[👉 Explore the Complete Game Development Guide](./GAME_DEVELOPMENT_GUIDE.md)**  
+Master Unity, MonoGame, and more!
 
 Happy coding and game development! 🎮✨

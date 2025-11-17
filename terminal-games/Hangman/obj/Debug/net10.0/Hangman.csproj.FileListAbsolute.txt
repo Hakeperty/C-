@@ -1,0 +1,15 @@
+/home/runner/work/C-/C-/terminal-games/Hangman/bin/Debug/net10.0/Hangman
+/home/runner/work/C-/C-/terminal-games/Hangman/bin/Debug/net10.0/Hangman.deps.json
+/home/runner/work/C-/C-/terminal-games/Hangman/bin/Debug/net10.0/Hangman.runtimeconfig.json
+/home/runner/work/C-/C-/terminal-games/Hangman/bin/Debug/net10.0/Hangman.dll
+/home/runner/work/C-/C-/terminal-games/Hangman/bin/Debug/net10.0/Hangman.pdb
+/home/runner/work/C-/C-/terminal-games/Hangman/obj/Debug/net10.0/Hangman.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/C-/C-/terminal-games/Hangman/obj/Debug/net10.0/Hangman.AssemblyInfoInputs.cache
+/home/runner/work/C-/C-/terminal-games/Hangman/obj/Debug/net10.0/Hangman.AssemblyInfo.cs
+/home/runner/work/C-/C-/terminal-games/Hangman/obj/Debug/net10.0/Hangman.csproj.CoreCompileInputs.cache
+/home/runner/work/C-/C-/terminal-games/Hangman/obj/Debug/net10.0/Hangman.sourcelink.json
+/home/runner/work/C-/C-/terminal-games/Hangman/obj/Debug/net10.0/Hangman.dll
+/home/runner/work/C-/C-/terminal-games/Hangman/obj/Debug/net10.0/refint/Hangman.dll
+/home/runner/work/C-/C-/terminal-games/Hangman/obj/Debug/net10.0/Hangman.pdb
+/home/runner/work/C-/C-/terminal-games/Hangman/obj/Debug/net10.0/Hangman.genruntimeconfig.cache
+/home/runner/work/C-/C-/terminal-games/Hangman/obj/Debug/net10.0/ref/Hangman.dll

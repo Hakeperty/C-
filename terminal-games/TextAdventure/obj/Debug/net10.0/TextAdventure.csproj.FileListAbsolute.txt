@@ -1,0 +1,15 @@
+/home/runner/work/C-/C-/terminal-games/TextAdventure/bin/Debug/net10.0/TextAdventure
+/home/runner/work/C-/C-/terminal-games/TextAdventure/bin/Debug/net10.0/TextAdventure.deps.json
+/home/runner/work/C-/C-/terminal-games/TextAdventure/bin/Debug/net10.0/TextAdventure.runtimeconfig.json
+/home/runner/work/C-/C-/terminal-games/TextAdventure/bin/Debug/net10.0/TextAdventure.dll
+/home/runner/work/C-/C-/terminal-games/TextAdventure/bin/Debug/net10.0/TextAdventure.pdb
+/home/runner/work/C-/C-/terminal-games/TextAdventure/obj/Debug/net10.0/TextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/C-/C-/terminal-games/TextAdventure/obj/Debug/net10.0/TextAdventure.AssemblyInfoInputs.cache
+/home/runner/work/C-/C-/terminal-games/TextAdventure/obj/Debug/net10.0/TextAdventure.AssemblyInfo.cs
+/home/runner/work/C-/C-/terminal-games/TextAdventure/obj/Debug/net10.0/TextAdventure.csproj.CoreCompileInputs.cache
+/home/runner/work/C-/C-/terminal-games/TextAdventure/obj/Debug/net10.0/TextAdventure.sourcelink.json
+/home/runner/work/C-/C-/terminal-games/TextAdventure/obj/Debug/net10.0/TextAdventure.dll
+/home/runner/work/C-/C-/terminal-games/TextAdventure/obj/Debug/net10.0/refint/TextAdventure.dll
+/home/runner/work/C-/C-/terminal-games/TextAdventure/obj/Debug/net10.0/TextAdventure.pdb
+/home/runner/work/C-/C-/terminal-games/TextAdventure/obj/Debug/net10.0/TextAdventure.genruntimeconfig.cache
+/home/runner/work/C-/C-/terminal-games/TextAdventure/obj/Debug/net10.0/ref/TextAdventure.dll
